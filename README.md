@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Food Delivery App
 - 💬 Ask me about Python/Django
+
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-amarjot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amarjotsingh21/)](https://www.linkedin.com/in/amarjotsingh21/)
 ![GitHub followers](https://img.shields.io/github/followers/AmarjotSingh21?label=Follow&style=social)
 
